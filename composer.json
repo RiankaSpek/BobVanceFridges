@@ -1,0 +1,14 @@
+{
+  "require": {
+    "twig/twig": "^3.0",
+    "gabordemooij/redbean": "^5.7"
+  },
+  "autoload": {
+    "files": [
+      "helpers/helpers.php",
+      "controllers/BaseController.php",
+      "controllers/HomeController.php",
+      "controllers/FridgeController.php"
+    ]
+  }
+}
